@@ -27,7 +27,7 @@ const privateConfig = {
 };
 
 tanos(privateConfig, (err)=> { console.log(err) })
-/*
+
 const groupConfig = {
     bot: bot,
     db: db,
@@ -41,4 +41,3 @@ const groupConfig = {
 };
 
 tanos(groupConfig, (err)=> { console.log(err) })
-*/
