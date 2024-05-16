@@ -1,0 +1,18 @@
+{
+  "name": "tanos-v2-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "encoding-down": "^7.1.0",
+    "level-rocksdb": "^5.0.0",
+    "levelup": "^5.1.1",
+    "node-telegram-bot-api": "^0.61.0",
+    "tanos-v2": "^0.0.52"
+  }
+}
